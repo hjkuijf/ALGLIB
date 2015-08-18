@@ -4,7 +4,7 @@ This is ALGLIB 3.4.0, as downloaded from: http://www.alglib.net/ . This library 
 
 A project profile is added for use in [MeVisLab](http://www.mevislab.de/). To add this library to the Sources of your MeVisLab package, please do the following:
 
-1. Please download these sources and place them in Your/Package/Sources/alglib
+1. Download these sources and place them in Your/Package/Sources/alglib
 2. Add the following to Your/Package/Configuration/Your_Package.pri:
 
 ```
